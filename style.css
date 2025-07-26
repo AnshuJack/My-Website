@@ -1,6 +1,7 @@
 header {
   background: linear-gradient(to right, lilac, white);
   border-bottom: 10px solid lilac;
+  text-align: center;
 }
 
 nav {
@@ -18,9 +19,13 @@ nav a {
 }
 
 body {
-  background: linear-gradient(to right, lilac, white);
+  background-color: linear-gradient(to right, lilac, white);
   font-family: papyrus;
   color: white;
+}
+
+img {
+  place-items: center;
 }
 
 p {
