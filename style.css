@@ -1,5 +1,5 @@
 header {
-  background: linear-gradient(to right, purple, white);
+  background: linear-gradient(to right, #edc8ff, white);
   border-bottom: 10px solid lilac;
   text-align: center;
 }
@@ -13,7 +13,7 @@ nav {
   margin: 1em 0;
 }
 body {
-  background: linear-gradient(to right, purple, white);
+  background: linear-gradient(to right, #edc8ff, white);
   font-family: papyrus;
   color: white;
 }
