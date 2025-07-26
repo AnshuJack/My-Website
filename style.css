@@ -19,13 +19,13 @@ nav a {
 }
 
 body {
-  background-color: linear-gradient(to right, lilac, white);
+  background: linear-gradient(to right, lilac, white);
   font-family: papyrus;
   color: white;
 }
 
 img {
-  place-items: center;
+  text-align: center;
 }
 
 p {
