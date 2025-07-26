@@ -1,5 +1,5 @@
 header {
-  background: linear-gradient(to right, lilac, white);
+  background: linear-gradient(to right, purple, white);
   border-bottom: 10px solid lilac;
   text-align: center;
 }
@@ -11,17 +11,11 @@ nav {
   justify-content: center;
   gap: 2em;
   margin: 1em 0;
-    }
-nav a {
-  color: #0ff;
-  text-decoration: none;
-  font-weight: bold;
 }
-
 body {
-  background: linear-gradient(to right, lilac, white);
+  background: linear-gradient(to right, purple, white);
   font-family: papyrus;
-  color: white;
+  color: white
 }
 
 img {
