@@ -5,7 +5,7 @@ header {
 }
 
 nav {
-  background-color: black;
+  background: linear-gradient(to right, #edc8ff, white);
   color: white;
   display: flex;
   justify-content: center;
